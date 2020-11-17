@@ -1,0 +1,24 @@
+[
+  {
+    "cardId": "Tropical_IslandRevisedfalseNM-M",
+    "name": "Tropical Island",
+    "quantity": 0,
+    "countForTrade": 0,
+    "isFoil": false,
+    "url": "/sets/Revised/Tropical_Island",
+    "setUrl": "/spoiler_lists/Revised",
+    "fair_price": 435.64,
+    "setName": "Revised",
+    "absoluteChangeSinceYesterday": 0.0,
+    "absoluteChangeSinceOneWeekAgo": 435.6400146484375,
+    "percentageChangeSinceYesterday": 0.0,
+    "color": "Lnd",
+    "rarity": "R",
+    "manna": "",
+    "bestVendorBuylist": "Card Kingdom",
+    "bestVendorBuylistPrice": "385.0",
+    "lowestPrice": "435.64",
+    "lowestPriceVendor": "TCG Player",
+    "fullImageUrl": "http://s.mtgprice.com/sets/Revised/img/Tropical Island.full.jpg"
+  }
+]
